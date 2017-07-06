@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "install": "gitbook install",
+    "start": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enspiral-pods/handbook.git"
+  },
+  "keywords": [],
+  "license": "CC-BY-SA",
+  "bugs": {
+    "url": "https://github.com/enspiral-pods/handbook/issues"
+  },
+  "homepage": "https://github.com/enspiral-pods/handbook#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
+}
